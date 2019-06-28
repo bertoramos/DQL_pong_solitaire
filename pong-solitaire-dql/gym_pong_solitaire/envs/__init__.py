@@ -1,0 +1,2 @@
+
+from gym_pong_solitaire.envs.gym_pong_solitaire_env import PongSolitaireEnv
